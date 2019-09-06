@@ -3,11 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://data-exp-lab.github.io/analysis-notebooks/categories/</loc>
+    <loc>https://data-exp-lab.github.io/analysis-notebooks/</loc>
+    <lastmod>2019-09-05T20:53:58-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://data-exp-lab.github.io/analysis-notebooks/</loc>
+    <loc>https://data-exp-lab.github.io/analysis-notebooks/posts/</loc>
+    <lastmod>2019-09-05T20:53:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-exp-lab.github.io/analysis-notebooks/posts/weather/</loc>
+    <lastmod>2019-09-05T20:53:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-exp-lab.github.io/analysis-notebooks/posts/geodynamics/</loc>
+    <lastmod>2019-09-05T20:53:31-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-exp-lab.github.io/analysis-notebooks/posts/neuro/</loc>
+    <lastmod>2019-09-05T20:51:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-exp-lab.github.io/analysis-notebooks/posts/astronomy/</loc>
+    <lastmod>2019-09-05T20:47:04-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-exp-lab.github.io/analysis-notebooks/categories/</loc>
   </url>
   
   <url>
