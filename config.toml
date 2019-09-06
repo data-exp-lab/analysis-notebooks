@@ -9,7 +9,7 @@ theme = "hugo-cards"
 
   facebook = ""
   quora = ""
-  twitter = "https://twitter.com/data-exp-lab/"
+  twitter = "https://twitter.com/dataexplab/"
   github = "http://github.com/data-exp-lab/"
   email = "mjturk@illinois.edu"
 
@@ -21,7 +21,7 @@ theme = "hugo-cards"
   analytics = ""
   disqus = ""
 
-  #[params.copyright]
-     #name = "bool"
-     #link = "https://bool.netlify.com"
+  [params.copyright]
+     name = "dxl"
+     link = "https://data-exp-lab.github.io/"
 
