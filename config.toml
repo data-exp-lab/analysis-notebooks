@@ -1,3 +1,27 @@
-baseURL = "http://example.org/"
+baseURL = "https://data-exp-lab.github.io/analysis-notebooks/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Cross-Domain Analysis Notebooks"
+theme = "hugo-cards"
+
+[params]
+  builtBy = "data-exp-lab"
+  #defaultImage = "gopher.jpg"
+
+  facebook = ""
+  quora = ""
+  twitter = "https://twitter.com/data-exp-lab/"
+  github = "http://github.com/data-exp-lab/"
+  email = "mjturk@illinois.edu"
+
+  fbLikeBox = ""
+  fbAppId = ""
+  fbPageUrl = ""
+  fbPageTitle = ""
+
+  analytics = ""
+  disqus = ""
+
+  #[params.copyright]
+     #name = "bool"
+     #link = "https://bool.netlify.com"
+
